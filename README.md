@@ -10,5 +10,5 @@ We used asciinema to record the steps taken in the most didactic way possible.
 
 View the recordings at:
 
-    - Init Git repo; conflict with initial commit - https://asciinema.org/a/4159u1CkU7lpccMWbYHh0cjps
-    - Using git to save work on top of a bad (local) commit - https://asciinema.org/a/B8Wbpl0eIkfMWn44GuvfSB61b
+- Init Git repo; conflict with initial commit - https://asciinema.org/a/4159u1CkU7lpccMWbYHh0cjps
+- Using git to save work on top of a bad (local) commit - https://asciinema.org/a/B8Wbpl0eIkfMWn44GuvfSB61b
